@@ -1,0 +1,8 @@
+This mod adds in several accessories to prevent nearly every debuff in the game. They combine, too!
+
+Note: My sprites are bad. Feel free to resprite anything you see fit.
+
+Changelog: 
+v1.0.0.0: Released the mod.
+v1.1.0.0: Actually made the Zues' Eschetuon function as an Aknh Shield. All dropped accessories now can be dropped in varying rates for Expert and Normal, and they drop from Boss Bags in Expert.
+v1.1.0.1: Updated to tModLoader v0.10.1.2, made open source.

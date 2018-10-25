@@ -1,0 +1,8 @@
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\bin\Debug\ClassLibrary.dll
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\bin\Debug\ClassLibrary.pdb
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\bin\Debug\Modded Terraria.exe
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\obj\Debug\DebuffImmunity.csprojAssemblyReference.cache
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\obj\Debug\DebuffImmunity.csproj.CoreCompileInputs.cache
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\obj\Debug\DebuffImmunity.csproj.CopyComplete
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\obj\Debug\ClassLibrary.dll
+C:\Users\Mikey Scott\Documents\My Games\Terraria\ModLoader\Mod Sources\DebuffImmunity\obj\Debug\ClassLibrary.pdb

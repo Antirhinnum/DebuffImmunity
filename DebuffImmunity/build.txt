@@ -1,0 +1,8 @@
+author = Creeper Da Snek
+version = 1.1.1
+displayName = Debuff Immunity
+hideCode = false
+hideResources = false
+homepage = https://forums.terraria.org/index.php?threads/debuff-immunity.62719/
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
